@@ -1,9 +1,9 @@
 # 🚀 FTP Scanner & Checker
 
-[Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
-[Status](https://img.shields.io/badge/Status-Active-success.svg)
-[License](https://img.shields.io/badge/License-MIT-green.svg)
-[Security](https://img.shields.io/badge/Security-Research%20Only-red.svg)
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Security](https://img.shields.io/badge/Security-Research%20Only-red.svg)
 
 ## 📌 Description
 This repository contains two powerful Python scripts for scanning FTP servers and checking login credentials.
